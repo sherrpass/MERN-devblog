@@ -1,0 +1,6 @@
+{
+    "mongoURI":"mongodb+srv://sherpass:sherpass@cluster0-hyzvw.mongodb.net/devBlog?retryWrites=true&w=majority",
+    "jwtSecret":"sherpass",
+    "githubClientID": "ddba121aafebb3cec2f8",
+    "githubClientSecret": "5e7db855f190d2dc1ecc27a5b1ddb298d4074313"
+}
